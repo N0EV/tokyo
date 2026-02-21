@@ -1,7 +1,9 @@
 <!-- HEADERS -->
-<p align="center">
+<!-- <p align="center">
   <img width="25%" src="https://github.com/rxyhn.png" />
-</p>
+</p>-->
+>[!WARNING]
+>Este repositorio es un fork por lo que todo el merito y reconocimiento al autor o autora de este mismo, dicho esto este repositorio ser ira cambiando a medida que mi conocimiento me permita modificar sus componenetes para hacer el mio propio partiendo de este repositorio el cual ya parte de un estilo que me gusta.
 
 <p align="center">
   <b> ~ Rxyhn's configuration files ~ </b>
